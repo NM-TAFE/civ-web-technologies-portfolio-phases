@@ -1,8 +1,7 @@
 ## civ-web-technologies-portfolio-phases
 To use this folder structure 
 
-## Fork the repository to your personall GitHub account
-- change the name of your fork repository to civ-web-technologies-portfolio-phases-<your-name>
+## Link the repository to your personall GitHub account
 - navigate to your local project directory e.g. cd /path/to/your/project
 
 ## Add the files in your new local repository. This stages them for the first commit.
